@@ -266,18 +266,18 @@ TextReply = 'حـبـيبـي ولله فـداڪ عمࢪيي💘🙊'
 send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
-if text == 'ديمو' then
-TextReply = 'هـاذ مـطـوࢪ سـوࢪسـات💘✨'
+if text == 'اريد بوت' then
+TextReply = 'تع عمري تبشر @X_GGX'
 send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
-if text == '@IMMHH' then
-TextReply = 'هاذ مـطـوࢪ الـسوࢪس عمࢪيي'
+if text == '@X_GGX' then
+TextReply = 'هاذ مـطـوࢪ ـسوࢪس الࢪوگس'
 send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
-if text == 'بلال' then
-TextReply = 'خـوش مـطوࢪ حـباب🥺💘'
+if text == 'الحلفي' then
+TextReply = ' هاذ مـالك ـسوࢪس الࢪوگس اللطيف🧸🤎'
 send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
